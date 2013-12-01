@@ -1,6 +1,6 @@
 require.config({
       paths: {
-            'jquerymobile': 'vendor/jquery.mobile-1.3.0',
+            'jquerymobile': 'vendor/jquery.mobile-1.3.0.min',
             'jstorage' : 'vendor/jstorage',
             'underscore': 'vendor/underscore'
       },
